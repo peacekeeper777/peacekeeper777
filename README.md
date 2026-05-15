@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Passionate+About+Problem+Solving;DSA+%7C+Full+Stack+DBMS+Development+%7C+DevOps;Building+Creative+and+Scalable+Projects;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Passionate+About+Problem+Solving;DSA+%7C+Full+Stack+Development+%7C+DBMS+%7C+%7C+DevOps;Building+Creative+and+Scalable+Projects;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
