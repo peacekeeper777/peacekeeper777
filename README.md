@@ -1,92 +1,72 @@
 <h1 align="center">Hi 👋, I'm Aman Singh Rana</h1>
 
 <h3 align="center">
-🚀 Aspiring Software Engineer | CSE Student | DSA Enthusiast | Web Developer
+Aspiring Software Engineer • CSE Student • DSA Enthusiast • Full Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Passionate+About+Problem+Solving;DSA+%7C+Full+Stack+Development+%7C+DBMS+%7C+%7C+DevOps;Building+Creative+and+Scalable+Projects;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Passionate+About+Problem+Solving;Full+Stack+Development+%7C+DSA+%7C+DevOps;Building+Scalable+and+Impactful+Projects" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/peacekeeper777">
-    <img src="https://komarev.com/ghpvc/?username=peacekeeper777&label=Profile+Views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=peacekeeper777&label=Profile%20Views&color=4F46E5&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 🎓 3rd Year Computer Science Engineering Student  
-- 💻 Strong interest in Data Structures & Algorithms  
-- 🌱 Learning Advanced JavaScript, DBMS, MERN Stack & DevOps  
-- 🔥 Building scalable, creative, and interactive web applications  
-- ⚡ Exploring Software Development, Open Source & Problem Solving  
-- 🎯 Goal: Crack top tech internships and grow into a high-impact developer  
+- 💡 Passionate about Software Development & Problem Solving  
+- 🌱 Learning MERN Stack, DBMS & DevOps  
+- ⚡ Exploring scalable web technologies and open source  
+- 🎯 Aspiring to become a high-impact software engineer  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,html,css" />
 </p>
 
-### ⚙️ Frameworks & Tools
+### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,git,github,vscode,figma,arduino" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github,vscode,figma" />
 </p>
 
-### 📚 Currently Exploring
+### Currently Exploring
 <p>
-  <img src="https://skillicons.dev/icons?i=express,docker,linux,jenkins" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,jenkins" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
-### 🔹 Customer Purchase Prediction & Visualization
-📊 Data analysis and trend visualization using Python libraries.
-
-### 🔹 Food Rescue Management Platform
-🍱 UI/UX platform for efficient surplus food distribution.
-
-### 🔹 Plagiarism Detection System
-📝 Similarity detection and document comparison system.
-
-### 🔹 Smart Loan Advisor
-💰 Loan analysis, EMI calculation & risk assessment platform.
-
-### 🔹 AI Timetable Generator
-🤖 Automated scheduling with conflict detection.
+- **Customer Purchase Prediction & Visualization** — Python, Pandas, NumPy, Matplotlib  
+- **Food Rescue Management Platform** — Figma, Canva, UI/UX  
+- **Plagiarism Detection System** — Node.js, Express, C++, JavaScript  
+- **Smart Loan Advisor** — Java, Maven, Jenkins, JavaScript  
+- **AI Timetable Generator** — React, Node.js, MongoDB, AI  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=peacekeeper777&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacekeeper777&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=peacekeeper777&show_icons=true&theme=default&hide_border=true" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacekeeper777&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=peacekeeper777&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/peacekeeper777/peacekeeper777/output/github-contribution-grid-snake.svg" />
+  <img src="https://streak-stats.demolab.com?user=peacekeeper777&theme=default&hide_border=true" />
 </p>
 
 ---
@@ -94,21 +74,27 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+  <a href="http://linkedin.com/in/aman-rana-225344337">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:amanchd2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://github.com/peacekeeper777">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+  <a href="https://leetcode.com/u/AmanRana91/">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
 
-<h3 align="center">
-⭐ Turning Ideas into Scalable Tech Solutions ⭐
-</h3>
+<p align="center">
+  <i>Building scalable solutions through code, creativity, and continuous learning.</i>
+</p>
