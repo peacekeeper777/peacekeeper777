@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Passionate+About+Problem+Solving;DSA+%7C+Web+Development+%7C+DevOps;Building+Creative+and+Scalable+Projects;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Passionate+About+Problem+Solving;DSA+%7C+Full+Stack+DBMS+Development+%7C+DevOps;Building+Creative+and+Scalable+Projects;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -18,12 +18,12 @@
 
 ## 🚀 About Me
 
-- 🎓 2nd Year Computer Science Engineering Student  
+- 🎓 3rd Year Computer Science Engineering Student  
 - 💻 Strong interest in Data Structures & Algorithms  
-- 🌱 Learning Advanced JavaScript, MERN Stack & DevOps  
+- 🌱 Learning Advanced JavaScript, DBMS, MERN Stack & DevOps  
 - 🔥 Building scalable, creative, and interactive web applications  
 - ⚡ Exploring Software Development, Open Source & Problem Solving  
-- 🎯 Goal: Study at a top global university and build impactful tech solutions  
+- 🎯 Goal: Crack top tech internships and grow into a high-impact developer  
 
 ---
 
