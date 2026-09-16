@@ -65,6 +65,7 @@ aman.sayHi();
 - 🔨 **Full Stack Expertise** in MERN stack with production-level projects
 - 🌱 **Continuous Learner** exploring System Design, DevOps & Cloud
 - 🎯 **Career Goal**: Solving complex problems at scale in top tech companies
+- 🎬 **Off-script**: catching up on Indian cinema and following consumer tech & automotive news
 - ⚡ **Fun Fact**: I debug code faster than I debug my life decisions! 😄
 - 💬 **Ask me about**: DSA, Web Development, System Design, or anything tech!
 - 🤝 **Open for**: Collaborations, Internships, and Full-time opportunities
@@ -196,10 +197,12 @@ aman.sayHi();
 
 ```plaintext
 ✨ Features
-├── 🎯 Multi-Algorithm Engine (TF-IDF, Winnowing, LCS, Levenshtein)
+├── 🎯 Production-Grade C++ Engine (TF-IDF/Cosine Similarity, Winnowing,
+│                                    LCS, Levenshtein, N-gram)
 ├── 🏗️ Three-Tier Architecture (C++ Engine + Node.js Backend + Web Frontend)
 ├── ⚡ Real-time Processing with Weighted Scoring System
-└── 🎨 Interactive Web Interface with Visualization
+├── 🎨 Interactive Web Interface with Visualization
+└── 🔜 Next Up: algorithm comparison guide + deeper MERN integration
 ```
 
 <a href="https://github.com/peacekeeper777/plagiarism_project">
@@ -298,6 +301,21 @@ aman.sayHi();
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🌍 Beyond the Code
+
+<div align="center">
+
+| | |
+|---|---|
+| 📐 **Math & Algorithms** | The problem-solving itch that carries over into every project |
+| 🎬 **Indian Cinema** | Keeps up with new releases and old favorites alike |
+| 📱 **Consumer Tech & Automotive** | Casual follower of new gadget launches and car reviews |
+| 🗣️ **Languages** | Hindi and English |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -348,11 +366,11 @@ aman.sayHi();
 
 <div align="center">
 
-### 🌟 *"First, solve the problem. Then, write the code."* - John Johnson
+### 🌟 *"First, solve the problem. Then, write the code."* — John Johnson
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&fontColor=fff" width="100%" />
 
-**⭐ Star my repositories if you find them useful!**  
+**⭐ Star my repositories if you find them useful!**
 **💼 Open to exciting opportunities and collaborations!**
 
 <img src="https://komarev.com/ghpvc/?username=peacekeeper777&label=Thanks%20for%20visiting!&color=58A6FF&style=for-the-badge" alt="Thanks" />
